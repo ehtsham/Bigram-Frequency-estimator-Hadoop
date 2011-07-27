@@ -1,0 +1,3 @@
+This MapReduce project computes the bigram frequencies from a text corpus. 
+Simply Run the RFDriver.java and let the magic begin
+
